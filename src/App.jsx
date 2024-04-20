@@ -1,6 +1,10 @@
+import { Pokemon } from "./components/Pokemon";
+
 function App() {
 	return (
-		<div className="min-h-screen w-full bg-neutral-950 text-neutral-200 antialiased"></div>
+		<div className="flex min-h-screen w-full items-center justify-center bg-neutral-950 text-neutral-200 antialiased">
+			<Pokemon />
+		</div>
 	);
 }
 
