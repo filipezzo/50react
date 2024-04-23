@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Filipe",
+      "email": "filipetsx@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Mateus",
+      "email": "mateustsx@gmail.com"
+    },
+    {
+      "id": "b9210be4-e6b5-4905-8637-31fb2ef739b6",
+      "name": "laura",
+      "email": "laura@laura.com"
+    },
+    {
+      "id": "64543fcf-1e3f-4087-9f9b-a301082b7600",
+      "name": "mateus",
+      "email": "mateus@asas.com"
+    },
+    {
+      "id": "1fb245ed-6929-4329-8fa8-fa6be9f7c60c",
+      "name": "Jose",
+      "email": "teamopai@pai.com"
+    },
+    {
+      "id": "f2564567-888d-4a7a-9c5e-4632bc2cad6f",
+      "name": "marli",
+      "email": "teamomai@gmail.com"
+    },
+    {
+      "id": "4cff05dd-28cd-46d0-b00a-6502ca2f9405",
+      "name": "adsjqhu'",
+      "email": "Huehie@gmail.com"
+    },
+    {
+      "id": "1c58aa33-df37-48b0-bcc1-c6a994605e05",
+      "name": "caraiao",
+      "email": "caraio@gmail.com"
+    }
+  ]
+}
